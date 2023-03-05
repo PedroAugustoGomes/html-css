@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+        body{
+            background-image: linear-gradient(to right, #1F044F, #2F08A3);
+            color: rgb(187, 255, 185);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        body.ex11{
+            text-align: center;
+            background-image: linear-gradient(left to right,#1F044F, #2F08A3);
+        }
+
+        a{
+            color: rgb(185, 217, 219);
+        }
