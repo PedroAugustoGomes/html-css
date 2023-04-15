@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    min-height: 98dvh;
+    min-width: 98dvw;
+}
